@@ -17,6 +17,8 @@
 
 - Works in Chrome
 - Works in Firefox
+- Works on `medium.com` URLs 
+- Works on custom URLs
 
 
 ## Installation

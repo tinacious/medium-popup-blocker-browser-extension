@@ -1,0 +1,2 @@
+- Medium URL: https://medium.com/@jacksonfdam/kotlin-multiplatform-infrared-and-wi-fi-a-remote-for-everything-that-blinks-or-listens-110036993414
+- Custom URL: http://aws.plainenglish.io/aws-lambda-response-streaming-for-kotlin-and-java-646d8c51f7a0?gi=f106bc65b8a1
