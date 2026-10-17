@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/chrome-manifest",
+  "name": "Medium popup blocker",
+  "manifest_version": 3,
+  "description": "Making Medium less annoying",
+  "version": "0.0.1",
+  "icons": {
+    "256": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content-script.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
